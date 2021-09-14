@@ -1,0 +1,13 @@
+
+# Server Liberies
+
+npm install express
+npm install express-validator
+npm install mysql2
+npm install cors
+npm install dotenv
+npm install bcryptjs
+npm install jsonwebtoken
+
+npm install concurrently --save
+npm install --save-dev nodemon
